@@ -4,7 +4,7 @@
 from setuptools import setup, find_packages
 
 version = '0.1dev'
-description = "Quickbooks integration for Plone."
+description = "Quickbooks accounting integration for Plone."
 long_description = ('\n'.join([
     open('README.rst').read(),
     open('CHANGES.rst').read(),
